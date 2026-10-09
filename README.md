@@ -18,22 +18,6 @@ Plus, exploring different areas of technology, including **Artificial Intelligen
 
 ---
 
-## Projects
-
-- ### Echoes & Ink — Online Journal
-
-An online journal project developed using **C++ and Object-Oriented Programming**, applying core OOP concepts to create a structured journal system.
-
-- ### Online Booking System
-
-A **C++ console-based booking system** developed to practice programming fundamentals, logic building, and user interaction through the command line.
-
-- ### Bicycle Rally Booking Website
-
-A web project created using **HTML and CSS**, designed as a booking platform for a bicycle rally.
-
----
-
 ## Certifications & Achievements
 
 - **Generative AI App Development** — ULEFUSA UETIANS Lahore Endowment Foundation, USA
@@ -43,8 +27,6 @@ A web project created using **HTML and CSS**, designed as a booking platform for
 
 ## Connect
 
-**LinkedIn:** [Alishba Fatima](https://www.linkedin.com/in/alishba-fatima0509)
-
-**Email:** [alishbafatima371@gmail.com](mailto:alishbafatima371@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alishba-fatima0509) . [alishbafatima371@gmail.com](mailto:alishbafatima371@gmail.com) . [GitHub](https://github.com/Alishba-Fatimaa)
 
 ---
